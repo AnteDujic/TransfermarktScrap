@@ -27,7 +27,7 @@ Finally, the extracted data will be exported to a CSV file for further analysis.
 
 3. Open the Jupyter Notebook file `SuperSport_HNL.ipynb`.
 
-4. Alternatively, you can also access the notebook on nbviewer by clicking the following link: [![nbviewer](https://nbviewer.org/github/AnteDujic/TransfermarktScrap/blob/main/SuperSport_HNL.ipynb).
+4. Alternatively, you can also access the notebook on nbviewer by clicking the following link: [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/AnteDujic/TransfermarktScrap/blob/main/SuperSport_HNL.ipynb).
 
 ## Disclaimer
 This project is designed for educational purposes only. The extracted data should not be used for any other means beyond learning and exploration. Respect the website's terms of service and scrape responsibly.
