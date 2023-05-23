@@ -25,9 +25,9 @@ Here is a preview of the scraped data, showcasing some player information from t
 
 | number | image_url | name | position | dob | nationality | height | foot | joined | joined_from | contract | value | club_name |
 | ------ | ---------- | ---- | -------- | ------------- | ----------- | ------ | ---- | ------ | ----------- | -------- | ----- | --------- |
-| 40     | https://img.a.transfermarkt.technology/portrait/big_number.jpg | Dominik Livakovic | Goalkeeper | Jan 9, 1995 | Croatia | 1.88 | Right | Aug 31, 2015 | NK Zagreb | Jun 15, 2024 | 14.00m | GNK Dinamo Zagreb |
-| 33     | https://img.a.transfermarkt.technology/portrait/big_number.jpg | Ivan Nevistic | Goalkeeper | Jul 31, 1998 | Croatia | 1.95 | Right | Jan 28, 2021 | NK Lokomotiva Zagreb | Jun 15, 2025 | 1.50m | GNK Dinamo Zagreb |
-| 1      | https://img.a.transfermarkt.technology/portrait/big_number.jpg | Danijel Zagorac | Goalkeeper | Feb 7, 1987 | Croatia | 1.86 | Right | Jul 11, 2016 | RNK Split | Jun 30, 2026 | 200k | GNK Dinamo Zagreb |
+| 40     | https://img.a.transfermarkt.technology/portrait/medium/205927-1669205618.jpg?lm=1 | Dominik Livakovic | Goalkeeper | Jan 9, 1995 | Croatia | 1.88 | Right | Aug 31, 2015 | NK Zagreb | Jun 15, 2024 | 14.00m | GNK Dinamo Zagreb |
+| 33     | https://img.a.transfermarkt.technology/portrait/medium/293185-1611931768.jpg?lm=1 | Ivan Nevistic | Goalkeeper | Jul 31, 1998 | Croatia | 1.95 | Right | Jan 28, 2021 | NK Lokomotiva Zagreb | Jun 15, 2025 | 1.50m | GNK Dinamo Zagreb |
+| 1      | https://img.a.transfermarkt.technology/portrait/medium/131310-1605120212.jpg?lm=1 | Danijel Zagorac | Goalkeeper | Feb 7, 1987 | Croatia | 1.86 | Right | Jul 11, 2016 | RNK Split | Jun 30, 2026 | 200k | GNK Dinamo Zagreb |
 | ...    | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
 
