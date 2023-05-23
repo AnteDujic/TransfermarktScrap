@@ -26,7 +26,7 @@ Finally, the extracted data will be exported to a CSV file for further analysis.
 
 Here is a preview of the scraped data, showcasing some player information from the Croatian football league:
 
-| Number | Image Link | Name | Position | Date of Birth | Nationality | Height | Foot | Joined | Joined From | Contract | Value | Club Name |
+| number | image_url | name | position | dob | nationality | height | foot | joined | joined_from | contract | value | club_name |
 | ------ | ---------- | ---- | -------- | ------------- | ----------- | ------ | ---- | ------ | ----------- | -------- | ----- | --------- |
 | 40     | https://img.a.transfermarkt.technology/portrait/big_number.jpg | Dominik Livakovic | Goalkeeper | Jan 9, 1995 | Croatia | 1.88 | Right | Aug 31, 2015 | NK Zagreb | Jun 15, 2024 | 14.00m | GNK Dinamo Zagreb |
 | 33     | https://img.a.transfermarkt.technology/portrait/big_number.jpg | Ivan Nevistic | Goalkeeper | Jul 31, 1998 | Croatia | 1.95 | Right | Jan 28, 2021 | NK Lokomotiva Zagreb | Jun 15, 2025 | 1.50m | GNK Dinamo Zagreb |
