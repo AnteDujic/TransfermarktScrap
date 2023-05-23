@@ -20,11 +20,14 @@ Once the data is scraped, it can be organized and structured using a DataFrame. 
 Finally, the extracted data will be exported to a CSV file for further analysis. CSV (Comma-Separated Values) is a widely supported file format that can be easily imported into various data analysis tools or programming languages.
 
 ## How to Use This Repository
-1.
-2.
-3. 
 
-https://nbviewer.org/github/AnteDujic/TransfermarktScrap/blob/main/SuperSport_HNL.ipynb
+1. Clone the repository to your local machine.
+
+2. Install the required dependencies by running `pip install -r requirements.txt`.
+
+3. Open the Jupyter Notebook file `SuperSport_HNL.ipynb`.
+
+4. Alternatively, you can also access the notebook on nbviewer by clicking the following link: [View on nbviewer](https://nbviewer.org/github/AnteDujic/TransfermarktScrap/blob/main/SuperSport_HNL.ipynb).
 
 ## Disclaimer
 This project is designed for educational purposes only. The extracted data should not be used for any other means beyond learning and exploration. Respect the website's terms of service and scrape responsibly.
